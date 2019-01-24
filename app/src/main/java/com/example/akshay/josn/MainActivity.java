@@ -17,6 +17,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
+    int ak;
+    String as;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

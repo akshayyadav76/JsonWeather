@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     int ak;
     String as;
     Double d1,d2,d3,d4,d5,d6;
+    int a1,a2,a3,a4,a5,a6;
 
 
 
